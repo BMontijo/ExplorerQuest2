@@ -1,0 +1,8 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Explorer Quest</string>
+    <!-- Start button text - [CharLimit=20] -->
+    <string name="button_start">Start</string>
+    <!-- Background image description, Accessibility [CharLimit=50] -->
+    <string name="img_desc_title_background">Blank Placeholder</string>
+</resources>
